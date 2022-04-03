@@ -2,7 +2,10 @@ import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import Image from 'react-bootstrap/Image'
 import './Home.css';
+import {useReview} from '../../hooks/useReview';
+import Review from '../Review/Review';
 const Home = () => {
+    const [reviews, setReviews] = useReview();
     return (
         <div className='home-container'>
           <div className="header-container">
@@ -24,7 +27,18 @@ const Home = () => {
                 </Container>
           </div>
         <div className="review-container">
+            <Container>
             <h1>Customer Reviews</h1>
+                <Row>
+                    
+                    {
+                        reviews.slice(0,3).map(review => <Review 
+                        key={review.id}
+                        review ={review}
+                        ></Review>)
+                    }
+                </Row>
+            </Container>
         </div>
 
         </div>
