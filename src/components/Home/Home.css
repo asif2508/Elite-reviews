@@ -32,3 +32,19 @@
 .review-container{
     margin-top: 100px;
 }
+.card-alignment{
+    margin-bottom: 10px;
+}
+.navigate-btn{
+    text-decoration: none;
+    padding: 12px 18px;
+    background-color: rgb(16, 63, 63);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 0;
+}
+.navigate-btn:hover{
+    background-color: white;
+    color: black;
+}
