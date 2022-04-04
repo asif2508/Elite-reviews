@@ -1,6 +1,9 @@
 # Elite Reviews
 
-[Live site](https://elite-reviews.netlify.app/)
+[Click here to visit Live site](https://elite-reviews.netlify.app/)
+
+or go to this link,
+live site: [https://elite-reviews.netlify.app/]
 
 ## project description
 1. This is a review and e-commerce website.
