@@ -1,8 +1,9 @@
 .card-style{
     width: 100%;
     height: 12em;
-    background-color: rgb(209, 224, 236);
+    background-color: rgb(90, 177, 165);
     border-radius: 5px;
+    color: white;
 }
 
 .review-para{
