@@ -26,7 +26,7 @@
       "eyeColor": "blue",
       "name": "Joann Hughes",
       "gender": "female",
-      "rating": 4.3,
+      "rating": 5.0,
       "company": "ZENTILITY"
     },
     {
@@ -41,7 +41,7 @@
       "name": "Neva Scott",
       "gender": "female",
       "desc": "Awesome performance. Highly recomended. I’ll leave it to the reader to decide the stars. Due to urgency I made a quick purchase of Lexmark MC3224 printer for our busy office. Bought it on the 6th July 2021 after couple of days it had to be returned due to software and a problem with the duplex system.",
-      "rating": 4.7,
+      "rating": 3,
       "company": "FLUMBO"
     },
     {

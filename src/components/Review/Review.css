@@ -1,7 +1,7 @@
 .card-style{
     width: 100%;
     height: 16em;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 1px solid black;
     box-shadow: 5px 5px 5px 12px rgba(191, 205, 209, 0.329);
 
@@ -12,4 +12,7 @@
 }
 .description{
     text-align: start;
+}
+.star-color{
+    color: rgb(238, 238, 26);
 }
