@@ -47,4 +47,5 @@
 .navigate-btn:hover{
     background-color: white;
     color: black;
+    border: 1px solid rgb(16, 63, 63);
 }
